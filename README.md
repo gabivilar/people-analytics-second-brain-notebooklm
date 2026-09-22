@@ -129,11 +129,140 @@ Uma pergunta genérica é útil para compreender conceitos, enquanto um prompt e
 
 ## 📖 Miniguia de People Analytics
 
-O conteúdo estudado foi consolidado em um miniguia com os principais conceitos e aprendizados obtidos durante o projeto.
+### O que é People Analytics?
+
+People Analytics é uma abordagem que utiliza dados relacionados às pessoas para apoiar a compreensão de problemas organizacionais e a tomada de decisões em gestão de pessoas.
+
+Mais do que simplesmente acompanhar indicadores de RH, a proposta é relacionar diferentes informações para compreender o que está acontecendo, investigar possíveis causas e apoiar decisões baseadas em evidências.
+
+Uma forma de compreender essa lógica é:
+
+**Problema → Dados → Indicadores → Relações → Hipóteses → Investigação → Decisão**
+
+---
+
+### Principais grupos de indicadores
+
+Durante o estudo, os indicadores foram organizados em quatro grandes grupos:
+
+| Área | Exemplos de Indicadores |
+|---|---|
+| Recrutamento e Seleção | Time to Hire, Cost per Hire, Quality of Hire |
+| Retenção e Clima | Turnover, Early Turnover, Absenteísmo, eNPS |
+| Desempenho e Desenvolvimento | Desempenho, potencial, treinamento e tempo desde a última promoção |
+| Impacto no Negócio | Receita por colaborador, produtividade e custos de RH |
+
+O principal aprendizado foi perceber que não é necessário acompanhar todos os indicadores ao mesmo tempo. A escolha das métricas deve estar relacionada ao problema que se deseja investigar.
+
+---
+
+### Da métrica à decisão
+
+Um indicador isolado mostra apenas parte da situação.
+
+Por exemplo, identificar que o turnover aumentou mostra **o que aconteceu**, mas não explica necessariamente **por que aconteceu**.
+
+Para investigar o problema, outros dados podem ser relacionados, como:
+
+- turnover precoce;
+- absenteísmo;
+- engajamento;
+- desempenho;
+- tempo desde a última promoção;
+- qualidade da contratação;
+- liderança;
+- área ou departamento.
+
+A análise conjunta desses indicadores permite formular hipóteses e investigar possíveis causas antes de propor uma ação.
+
+---
+
+### Exemplo prático
+
+Imagine uma equipe que apresente simultaneamente:
+
+**Aumento do absenteísmo + aumento do turnover + queda da produtividade**
+
+Uma decisão baseada apenas em percepção poderia atribuir o problema imediatamente à falta de motivação ou à liderança.
+
+Uma abordagem orientada por People Analytics procura primeiro investigar os dados.
+
+Entre as informações que poderiam ser analisadas estão:
+
+- histórico de absenteísmo;
+- turnover voluntário e involuntário;
+- produtividade;
+- desempenho;
+- tempo de empresa;
+- tempo desde a última promoção;
+- pesquisas de clima;
+- engajamento;
+- mudanças recentes de liderança.
+
+A partir dessas informações, podem surgir hipóteses como:
+
+- sobrecarga de trabalho;
+- problemas de liderança;
+- estagnação de carreira;
+- desalinhamento na contratação;
+- falhas no onboarding.
+
+Essas hipóteses ainda precisam ser investigadas antes da tomada de decisão.
+
+---
+
+### Principal aprendizado do estudo
+
+People Analytics não consiste apenas em acompanhar números.
+
+Seu valor está em transformar dados em perguntas, relações e hipóteses que ajudem os gestores a compreender melhor os problemas relacionados às pessoas antes de tomar decisões.
+
+---
 
 ## 📘 Glossário
 
-Principais conceitos relacionados a People Analytics utilizados durante o estudo.
+| Termo | Significado |
+|---|---|
+| **People Analytics** | Uso estruturado de dados sobre pessoas para apoiar análises e decisões de gestão. |
+| **KPI** | Indicador utilizado para acompanhar determinado resultado ou desempenho. |
+| **Turnover** | Rotatividade de profissionais dentro de uma organização. |
+| **Early Turnover** | Desligamento de profissionais nos primeiros meses ou no primeiro ano de trabalho. |
+| **Absenteísmo** | Ausências não planejadas dos colaboradores. |
+| **eNPS** | Indicador relacionado à percepção dos colaboradores sobre a organização. |
+| **Quality of Hire** | Indicador utilizado para avaliar a qualidade das novas contratações. |
+| **Time to Hire** | Tempo necessário para realizar uma contratação. |
+| **Análise Descritiva** | Busca compreender o que aconteceu. |
+| **Análise Diagnóstica** | Busca investigar por que determinado resultado aconteceu. |
+| **Análise Preditiva** | Utiliza dados para estimar possíveis acontecimentos futuros. |
+| **Análise Prescritiva** | Apoia a análise das possíveis ações diante de um cenário. |
+| **9-Box Grid** | Ferramenta que relaciona desempenho e potencial dos profissionais. |
+| **Data-driven** | Abordagem de tomada de decisão orientada por dados e evidências. |
+
+---
+
+## 💬 Prompts Reutilizáveis
+
+Os prompts abaixo podem ser utilizados futuramente para consultar o segundo cérebro e aprofundar análises relacionadas à gestão de pessoas.
+
+### Para compreender um indicador
+
+> Explique o indicador [NOME DO INDICADOR], o que ele mede, como deve ser interpretado e quais outros indicadores deveriam ser analisados em conjunto.
+
+### Para investigar um problema
+
+> Considere o seguinte problema de gestão de pessoas: [PROBLEMA]. Com base nas fontes deste Notebook, quais dados e indicadores de People Analytics deveriam ser analisados antes da tomada de decisão?
+
+### Para relacionar indicadores
+
+> Analise a possível relação entre [INDICADOR 1], [INDICADOR 2] e [INDICADOR 3]. Quais hipóteses poderiam explicar o comportamento desses indicadores?
+
+### Para apoiar uma decisão
+
+> Com base exclusivamente nas fontes deste Notebook, analise o seguinte cenário: [CENÁRIO]. Organize a resposta em dados disponíveis, possíveis relações, hipóteses e informações adicionais necessárias antes de recomendar uma ação.
+
+### Para estudar um conceito
+
+> Explique [CONCEITO] de forma simples, apresente um exemplo aplicado à gestão de pessoas e indique quais fontes deste Notebook sustentam a explicação.
 
 ## 💬 Prompts Reutilizáveis
 
