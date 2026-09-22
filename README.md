@@ -311,4 +311,8 @@ O principal aprendizado foi perceber que a inteligência artificial pode apoiar 
 
 ## 👩‍💻 Autora
 
-Gabriela Vilar
+**Gabriela Vilar**
+
+Profissional de Administração em transição e desenvolvimento de competências em dados, tecnologia e inteligência artificial.
+
+Projeto desenvolvido como parte da formação na **DIO**.
