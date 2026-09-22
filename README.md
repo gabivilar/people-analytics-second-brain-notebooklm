@@ -304,10 +304,10 @@ O principal aprendizado foi perceber que a inteligência artificial pode apoiar 
 
 ## 🛠️ Ferramentas Utilizadas
 
-- NotebookLM
-- GitHub
-- Inteligência Artificial Generativa
-- Markdown
+- **NotebookLM** — criação do segundo cérebro e consulta às fontes;
+- **GitHub** — documentação e publicação do projeto;
+- **Markdown** — estruturação do README;
+- **Inteligência Artificial Generativa** — apoio à organização, experimentação e engenharia de prompts.
 
 ## 👩‍💻 Autora
 
