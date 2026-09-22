@@ -26,19 +26,19 @@ Erik van Vulpen foi utilizado como principal referência conceitual do projeto, 
 
 ### 📄 Artigos
 
-1. **What is HR Analytics? All You Need to Know to Get Started — Erik van Vulpen / AIHR**  
+1. **[What is HR Analytics? All You Need to Know to Get Started — Erik van Vulpen / AIHR](https://www.aihr.com/blog/what-is-hr-analytics/)**  
    Fonte utilizada como principal referência conceitual sobre HR Analytics e People Analytics.
 
-2. **People Analytics no RH: como usar dados para decisões estratégicas — ADP**  
+2. **[People Analytics no RH: como usar dados para decisões estratégicas — ADP](https://br.adp.com/conteudo/artigos-e-estudos/articles/p/people-analytics-no-rh.aspx)**  
    Conteúdo sobre aplicação de dados e indicadores na gestão de pessoas.
 
-3. **People Analytics — Observatório de Pessoal do Governo Federal**  
+3. **[People Analytics — Observatório de Pessoal do Governo Federal](https://www.gov.br/servidor/pt-br/observatorio-de-pessoal-govbr/temas-govbr/people-analytics)**  
    Material institucional relacionado ao uso de dados para decisões baseadas em evidências.
 
-4. **Guia de People Analytics: como usar dados e indicadores de RH — Alura**  
+4. **[Guia de People Analytics: como usar dados e indicadores de RH — Alura](https://www.alura.com.br/empresas/artigos/people-analytics)**  
    Conteúdo sobre conceitos, indicadores, ferramentas e aplicação de People Analytics.
 
-5. **People Analytics e People Data: o que são e como aplicar no RH — Senior**  
+5. **[People Analytics e People Data: o que são e como aplicar no RH — Senior](https://www.senior.com.br/blog/people-data-e-people-analytics-rh)**  
    Fonte complementar sobre utilização de dados de pessoas para geração de insights.
 
 ### 🎥 Vídeos
