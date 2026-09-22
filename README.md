@@ -16,6 +16,12 @@ O NotebookLM foi configurado a partir da seguinte orientação:
 
 > Atue como um segundo cérebro especializado em People Analytics, tendo como principal referência os princípios e ensinamentos de Erik van Vulpen. Sua função é transformar dados e informações sobre pessoas em insights claros e aplicáveis, apoiando gestores na análise de indicadores, identificação de problemas, compreensão de tendências e tomada de decisões estratégicas em gestão de pessoas.
 
+## 🖥️ NotebookLM
+
+O Notebook foi alimentado com fontes selecionadas sobre People Analytics para funcionar como uma base de conhecimento especializada.
+
+![Fontes utilizadas no NotebookLM](notebooklm-fontes.png)
+
 ## 📚 Curadoria de Fontes
 
 Para construir a base de conhecimento do NotebookLM, foram selecionadas fontes em vídeo e texto relacionadas a People Analytics, indicadores de RH e tomada de decisão orientada por dados.
@@ -111,6 +117,12 @@ A resposta foi estruturada em quatro etapas:
 4. informações adicionais necessárias antes da tomada de decisão.
 
 O Notebook relacionou indicadores de absenteísmo, turnover, produtividade, desempenho, carreira, engajamento e liderança.
+
+### Evidência do teste
+
+A imagem abaixo apresenta um dos testes realizados com o NotebookLM durante o desenvolvimento do projeto.
+
+![Teste realizado no NotebookLM](notebooklm-teste.png)
 
 **Cicatriz / aprendizado:**  
 Esse foi o prompt que produziu a resposta mais próxima do comportamento esperado para um segundo cérebro especializado.
