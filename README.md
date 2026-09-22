@@ -53,7 +53,79 @@ Foram selecionados cinco conteúdos em vídeo sobre os fundamentos e a aplicaç�
 
 ## 🧪 Engenharia de Prompts e Cicatrizes
 
-Nesta etapa foram realizados diferentes testes para observar como a estrutura das perguntas influencia a qualidade das respostas produzidas pelo NotebookLM.
+Para avaliar se o NotebookLM realmente poderia funcionar como um segundo cérebro especializado em People Analytics, foram realizados testes com diferentes níveis de contexto e complexidade.
+
+### Teste 1 — Pergunta ampla
+
+**Prompt utilizado:**
+
+> Quais são os principais indicadores de People Analytics?
+
+**Resultado:**  
+A resposta apresentou uma visão geral dos principais indicadores, organizando-os em categorias como recrutamento e seleção, retenção e clima organizacional, desempenho e desenvolvimento e impacto financeiro.
+
+**Cicatriz / aprendizado:**  
+Embora a resposta tenha sido correta e organizada, ela permaneceu predominantemente conceitual. Como o prompt não apresentava um problema de negócio ou objetivo específico, o Notebook retornou uma lista ampla de indicadores.
+
+**Aprendizado:**  
+Perguntas abertas são úteis para compreender conceitos, mas geram respostas menos direcionadas para a tomada de decisão.
+
+---
+
+### Teste 2 — Aplicação a um problema de turnover
+
+**Prompt utilizado:**
+
+> Considere uma empresa que apresenta aumento no turnover nos últimos seis meses. Com base nas fontes deste Notebook, quais indicadores de People Analytics deveriam ser analisados para investigar o problema? Explique o que cada indicador pode revelar e como eles podem apoiar a tomada de decisão.
+
+**Resultado:**  
+O Notebook passou a relacionar indicadores ao problema apresentado, sugerindo a análise de turnover precoce, desempenho e potencial, tempo desde a última promoção, absenteísmo, engajamento, rotatividade por gestor ou departamento e qualidade da contratação.
+
+**Cicatriz / aprendizado:**  
+A inclusão de contexto tornou a resposta mais analítica. O Notebook deixou de apenas listar métricas e passou a explicar como cada indicador poderia ajudar a investigar possíveis causas da rotatividade.
+
+**Aprendizado:**  
+Inserir contexto, problema e objetivo no prompt aumenta a aplicabilidade da resposta.
+
+---
+
+### Teste 3 — Investigação diagnóstica
+
+**Prompt utilizado:**
+
+> Atue como um consultor de People Analytics. Um gestor identificou aumento simultâneo de absenteísmo, turnover e queda na produtividade de uma equipe. Com base exclusivamente nas fontes deste Notebook, proponha um processo de investigação indicando: quais dados analisar, quais relações investigar, quais hipóteses podem ser levantadas e quais informações adicionais seriam necessárias antes de tomar uma decisão.
+
+**Resultado:**  
+A resposta foi estruturada em quatro etapas:
+
+1. dados a serem analisados;
+2. relações e correlações a investigar;
+3. hipóteses possíveis;
+4. informações adicionais necessárias antes da tomada de decisão.
+
+O Notebook relacionou indicadores de absenteísmo, turnover, produtividade, desempenho, carreira, engajamento e liderança.
+
+**Cicatriz / aprendizado:**  
+Esse foi o prompt que produziu a resposta mais próxima do comportamento esperado para um segundo cérebro especializado.
+
+**Aprendizado:**  
+Combinar persona, contexto, problema, estrutura desejada e restrição às fontes torna a resposta mais profunda, organizada e aplicável.
+
+---
+
+### Evolução dos Prompts
+
+| Teste | Estrutura do Prompt | Resultado |
+|---|---|---|
+| Teste 1 | Pergunta genérica | Resposta conceitual e abrangente |
+| Teste 2 | Problema + contexto | Resposta mais diagnóstica |
+| Teste 3 | Persona + problema + estrutura + fontes | Resposta estratégica e aplicável |
+
+### Principal aprendizado
+
+Durante os testes, ficou evidente que a qualidade da resposta está diretamente relacionada à qualidade do contexto fornecido no prompt.
+
+Uma pergunta genérica é útil para compreender conceitos, enquanto um prompt estruturado permite utilizar o NotebookLM como ferramenta de apoio à investigação e à tomada de decisão.
 
 ## 📖 Miniguia de People Analytics
 
