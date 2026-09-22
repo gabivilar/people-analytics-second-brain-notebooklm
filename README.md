@@ -43,13 +43,20 @@ Erik van Vulpen foi utilizado como principal referência conceitual do projeto, 
 
 ### 🎥 Vídeos
 
-Foram selecionados cinco conteúdos em vídeo sobre os fundamentos e a aplicação de People Analytics, abordando temas como:
+1. **[People Analytics — Sólides](https://www.youtube.com/watch?v=1QUxXvb8Sps)**  
+   Conteúdo introdutório sobre People Analytics e sua aplicação na gestão de pessoas.
 
-- conceitos e fundamentos de People Analytics;
-- transformação do RH por meio de dados;
-- utilização prática de indicadores;
-- implementação de People Analytics nas organizações;
-- tomada de decisão orientada por dados.
+2. **[Tendências do RH — Descomplicando People Analytics #1](https://www.youtube.com/watch?v=A4tQT1KQZMc)**  
+   Conteúdo sobre a evolução do RH e a utilização de dados para uma atuação mais estratégica.
+
+3. **[People Analytics na prática](https://www.youtube.com/watch?v=3MHddRsgcE0)**  
+   Material utilizado para compreender aplicações práticas e estruturação de People Analytics.
+
+4. **[People Analytics na sua empresa](https://www.youtube.com/watch?v=c60BtMjASHw)**  
+   Conteúdo sobre as etapas de utilização dos dados, desde a formulação de perguntas até a tomada de decisão.
+
+5. **[People Analytics: como os dados estão transformando o RH](https://www.youtube.com/watch?v=fwG_0wPkUzc)**  
+   Material complementar sobre a transformação da gestão de pessoas por meio da análise de dados.
 
 ## 🧪 Engenharia de Prompts e Cicatrizes
 
