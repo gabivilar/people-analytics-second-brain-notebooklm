@@ -270,7 +270,18 @@ Conjunto de prompts desenvolvidos para futuras consultas ao segundo cérebro.
 
 ## 💡 Principais Aprendizados
 
-O projeto permitiu observar como a curadoria de fontes e a engenharia de prompts influenciam a qualidade das respostas geradas por uma inteligência artificial baseada em fontes.
+A construção deste projeto permitiu compreender que a qualidade das respostas de uma IA depende não apenas da ferramenta utilizada, mas também da qualidade das fontes selecionadas e da forma como as perguntas são estruturadas.
+
+Entre os principais aprendizados do projeto, destaco:
+
+- **Curadoria é parte fundamental do processo:** fontes confiáveis e complementares tornam a base de conhecimento mais consistente.
+- **Contexto melhora as respostas:** perguntas genéricas geram respostas mais conceituais, enquanto prompts contextualizados produzem análises mais aplicáveis.
+- **Um indicador isolado não conta toda a história:** em People Analytics, é necessário relacionar diferentes dados antes de levantar conclusões.
+- **Hipóteses não devem ser tratadas como certezas:** os dados ajudam a direcionar uma investigação, mas informações adicionais podem ser necessárias antes da tomada de decisão.
+- **Engenharia de prompts faz diferença:** definir persona, contexto, problema, objetivo e formato esperado melhora significativamente a qualidade da resposta.
+- **O NotebookLM pode funcionar como um segundo cérebro:** quando alimentado com fontes selecionadas, ele se torna uma ferramenta útil para consulta, estudo e organização do conhecimento.
+
+O principal aprendizado foi perceber que a inteligência artificial pode apoiar a tomada de decisão, mas seu valor depende da capacidade humana de formular boas perguntas, selecionar informações confiáveis e interpretar os resultados com senso crítico.
 
 ## 🛠️ Ferramentas Utilizadas
 
